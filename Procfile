@@ -1,1 +1,1 @@
-web: gunicorn railway.wsgi --log-fie -
+web: gunicorn schoolmanagement.wsgi --log-fie-
