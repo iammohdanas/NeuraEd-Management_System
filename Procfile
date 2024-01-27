@@ -1,1 +1,1 @@
-web: gunicorn schoolmanagement.wsgi --log-fie-
+web: gunicorn schoolmanagement.wsgi --log-fi -
